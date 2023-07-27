@@ -1,0 +1,4 @@
+enum Period {
+  day,
+  month,
+}
